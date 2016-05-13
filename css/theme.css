@@ -507,7 +507,7 @@ ul.lead li {
 }
 /*!---------- 4. COLOURS ----------*/
 .bg-primary {
-  background: #47b475 !important;
+  background: rgb(242, 222, 222) !important;
 }
 .bg-secondary {
   background: #f8f8f8;
@@ -567,7 +567,7 @@ footer.bg-dark h5,
 nav.bg-dark h6,
 footer.bg-dark h6,
 .bg-primary h6 {
-  color: #ffffff;
+  color: rgba(0, 0, 0, 0.63);
 }
 .bg-dark p,
 nav.bg-dark p,
@@ -581,7 +581,7 @@ footer.bg-dark span,
 nav.bg-dark li,
 footer.bg-dark li,
 .bg-primary li {
-  color: #fefefe;
+  color: rgba(0, 0, 0, 0.63);
 }
 @media all and (max-width: 767px) {
   section {
@@ -3025,7 +3025,7 @@ button[type="submit"] .form-loading {
 }
 /*!---------- 22. IMAGE TILES ----------*/
 img {
-  max-width: 100%;
+  max-width: 1020%;
 }
 .image-tile {
   overflow: hidden;
