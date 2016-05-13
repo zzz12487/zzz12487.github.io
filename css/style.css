@@ -1,0 +1,35 @@
+/****** 스타일을 입력하세요 ******/
+
+/* 본 고딕 사용하기 */
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+body {
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+
+/***** 메뉴 *****/
+
+/* 로고 */
+
+.nav-bar .logo {
+    color: #292929;
+    font-size: 26px;
+    line-height: 55px;
+    font-weight: 800;
+}
+
+/***** 히어로 유닛 *****/
+
+/* 큰 버튼 */
+
+.btn-lg {
+    font-size: 16px;
+    height: 65px;
+    line-height: 65px;
+    min-width: 300px;
+}
+
+
+/***** 푸터 *****/
+
